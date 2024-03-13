@@ -1,6 +1,6 @@
 # Omie app
 
-Aguarde o vídeo abrir abaixo ou <a href="http://www.youtube.com/watch?feature=player_embedded&v=GbB4gaQxlBw" target="_blank">ou clique aqui</a> para abrir no youtube.<br/><br/>
+Aguarde o vídeo abaixo carregar (acredite, há um vídeo) ou <a href="http://www.youtube.com/watch?feature=player_embedded&v=GbB4gaQxlBw" target="_blank">ou clique aqui</a> para abrir no youtube.<br/><br/>
 [<img src="https://github.com/diogoroos/omie_app/assets/78812662/80126a86-93bc-43e1-8433-1bc116004331" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
 
 ## Recursos:
