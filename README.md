@@ -14,7 +14,7 @@ Haviam outras funcionalidades que desenvolvi (calendário do CRM, inserção de 
 
 ## Tempo:
 Desenvolvi o UI no Figma entre 2-3 meses.<br/>
-Depois disso desenvolvi a primeira versão com mais 3-4 meses com as funcionalidades acima (exceto consulta de restrição).
+Depois disso desenvolvi a primeira versão com mais 3-4 meses com as funcionalidades acima (exceto consulta de restrição e não tão elaboradas quanto a versão que foi publicada).
 
 ## Estrutura:
 Nesse projeto eu fui o Dev, UX (Figma), PO e QA =D<br/>
