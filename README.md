@@ -1,6 +1,6 @@
 # Omie app
 
-[<img src="https://github.com/diogoroos/omie_app/assets/78812662/94c565a8-5274-4d2a-90fc-06fe1fdc8a85" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
+[<img src="https://github.com/diogoroos/omie_app/assets/78812662/80126a86-93bc-43e1-8433-1bc116004331" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
 
 ## Recursos:
 O app se integra com as APIs (REST) do ERP.<br/>
