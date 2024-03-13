@@ -5,7 +5,7 @@ Aguarde o vídeo abaixo carregar (acredite, há um vídeo) ou <a href="http://ww
 
 ## Recursos:
 O app se integra com as APIs (REST) do ERP.<br/>
-Além dos dashboards, tem as seguintes funcionalidades:<br/>
+Além dos dashboards de todos os módulos, há as seguintes funcionalidades:<br/>
 - inserir fornecedor (PF ou PJ)<br/>
 - inserir conta a pagar através de leitura de código de barras, digitação manual ou digitação do código de barras<br/>
 - consultar estoque via leitura de código de barras/QrCode ou digitação de parte (nome ou código) do produto, o que abre a tela de pesquisa<br/>
