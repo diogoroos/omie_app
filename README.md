@@ -1,6 +1,6 @@
 # Omie app
 
-Aguarde <a href="http://www.youtube.com/watch?feature=player_embedded&v=GbB4gaQxlBw" target="_blank">(ou clique)</a> para abrir o vídeo.
+Aguarde o vídeo abrir abaixo ou <a href="http://www.youtube.com/watch?feature=player_embedded&v=GbB4gaQxlBw" target="_blank">ou clique aqui</a> para abrir no youtube.<br/>
 [<img src="https://github.com/diogoroos/omie_app/assets/78812662/80126a86-93bc-43e1-8433-1bc116004331" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
 
 ## Recursos:
