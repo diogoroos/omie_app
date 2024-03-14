@@ -1,5 +1,5 @@
 [![Google ML](https://developers.google.com/ml-kit)](https://developers.google.com/ml-kit?hl=pt-br)[![Firebase](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFirebase_icon.svg&psig=AOvVaw3_eY3-yB7dzBsCk1RfI3lj&ust=1710521554157000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCCwcSb9IQDFQAAAAAdAAAAABAD)](https://firebase.com)
-Versão mobile do ERP preferido dos contadores e PMEs do Brasil.
+<br/>Versão mobile do ERP preferido dos contadores e PMEs do Brasil.
 
 # Omie app
 
