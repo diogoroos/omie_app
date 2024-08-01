@@ -5,27 +5,28 @@ Aguarde o vídeo abaixo carregar (acredite, há um vídeo) ou <a href="http://ww
 [<img src="https://github.com/diogoroos/diogoroos/assets/78812662/cf00cf0d-6404-4581-a103-a016548d2806" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
 
 ## Recursos:
-O app se integra com as APIs (REST) do ERP.<br/>
-Além dos dashboards de todos os módulos, há as seguintes funcionalidades:<br/>
-- inserir fornecedor (PF ou PJ)<br/>
-- inserir conta a pagar através de leitura de código de barras, digitação manual ou digitação do código de barras<br/>
-- consultar estoque via leitura de código de barras/QrCode ou digitação de parte (nome ou código) do produto, o que abre a tela de pesquisa<br/>
-- consulta de restrição de CPF/CNPJ<br/><br/>
-Haviam outras funcionalidades que desenvolvi (calendário do CRM, inserção de tarefas no CRM, Kanban de arrastar-soltar pedido para faturar), mas não permitiram a publicação, liberando inicialmente apenas os dashboards. Apenas as 4 funcionalidades acima foram publicadas posteriormente.
+- O app se integra com as APIs (REST) do ERP.<br/>
+- Além dos dashboards de todos os módulos, existem as seguintes funcionalidades:<br/>
+  - inserir fornecedor (PF ou PJ)<br/>
+  - inserir conta a pagar através de leitura de código de barras, digitação manual ou digitação do código de barras<br/>
+  - consultar estoque via leitura de código de barras/QrCode ou digitação de parte (nome ou código) do produto, o que abre a tela de pesquisa<br/>
+  - consulta de restrição de CPF/CNPJ<br/><br/>
+Haviam outras funcionalidades que desenvolvi (calendário do CRM, inserção de tarefas no CRM, Kanban de arrastar-soltar pedido para faturar), mas não permitiram a publicação, liberando inicialmente apenas os dashboards. Apenas as 4 funcionalidades acima foram publicadas posteriormente, e as demais não liberaram até minha saída da Omie.
 
 ## Tempo:
 Desenvolvi o UI no Figma entre 2-3 meses.<br/>
-Depois disso desenvolvi a primeira versão com mais 3-4 meses com as funcionalidades acima (exceto consulta de restrição e não tão elaboradas quanto a versão que foi publicada).
+Depois disso desenvolvi a primeira versão com mais 3-4 meses com as funcionalidades acima (exceto consulta de restrição que só veio depois).
 
 ## Estrutura:
 Nesse projeto eu fui o Dev, UX (Figma), PO e QA =D<br/>
-GIT (issues para controlar os cards), SCRUM
+Github e issues para controlar os cards<br/>
+SCRUM<br/>
 
 ## Arquitetura:
 Flutter 3.12<br/>
-MVC + repository<br/>
+MVVM<br/>
 Princípios S.O.L.I.D<br/>
-Clean Code<br/><br/>
+Clean Code<br/>
 
 ## Principais bibliotecas:
 Mobx para gerenciamento de estado<br/>
