@@ -2,7 +2,7 @@
 # Omie app
 
 Aguarde o vídeo abaixo carregar (acredite, há um vídeo) ou <a href="http://www.youtube.com/watch?feature=player_embedded&v=GbB4gaQxlBw" target="_blank">ou clique aqui</a> para abrir no youtube.<br/><br/>
-[<img src="https://github.com/diogoroos/diogoroos/assets/78812662/cf00cf0d-6404-4581-a103-a016548d2806" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
+[<img src="https://github.com/diogoroos/diogoroos/assets/78812662/cf00cf0d-6404-4581-a103-a016548d2806" heigth="300" width="300px">](https://www.youtube.com/watch?v=96RqpCz0DRc)
 
 ## Recursos:
 - O app se integra com as APIs (REST) do ERP.<br/>
